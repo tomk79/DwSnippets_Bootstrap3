@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="コンテナ(.container)" description="" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<div class="container"><!-- content -->]]></insertText><insertText location="afterSelection"><![CDATA[</div><!-- /.container -->]]></insertText></snippet>
