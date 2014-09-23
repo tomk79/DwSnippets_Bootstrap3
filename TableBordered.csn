@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Table (Bordered)" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<table class="table table-bordered">]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[</table>]]>
+</insertText>
+</snippet>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Sample Output (samp)" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<samp><!-- content -->]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[</samp>]]>
+</insertText>
+</snippet>

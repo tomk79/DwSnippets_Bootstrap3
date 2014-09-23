@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Basic block (pre)" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<pre>
+<!-- content -->]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[</pre>]]>
+</insertText>
+</snippet>

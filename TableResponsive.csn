@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Table (Responsive)" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<div class="table-responsive">
+  <table class="table">
+]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[  </table>
+</div>]]>
+</insertText>
+</snippet>

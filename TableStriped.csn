@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet name="Table (Striped)" description="" preview="code" type="wrap">
+<insertText location="beforeSelection">
+<![CDATA[<table class="table table-striped">]]>
+</insertText>
+<insertText location="afterSelection"><![CDATA[</table>]]>
+</insertText>
+</snippet>
